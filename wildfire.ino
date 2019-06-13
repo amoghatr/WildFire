@@ -9,7 +9,7 @@ AsyncWebServer server(80);
 const char* ssid = ""; // WiFi SSID
 const char* password = ""; //WiFi Password
 
-int indicator = 4;
+int indicator = ; //ESP8266 GPIO No.
 
 
 void buttonClicked(const char* id)
