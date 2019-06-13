@@ -1,2 +1,2 @@
 # WildFire
-An IoT based lighting system.
+This is an Internet-Of-Things based WiFi Lighting system built using ESP8266 WiFi module and the control interface built using ESP-DASH.
