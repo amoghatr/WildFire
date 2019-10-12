@@ -6,8 +6,6 @@
 #include<wificred.h>
 AsyncWebServer server(80);
 
-const char* ssid = ""; // WiFi SSID
-const char* password = ""; //WiFi Password
 
 int indicator = ; //ESP8266 GPIO No.
 
